@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IEMEGAMDMEI.proto";
+// cmdid = 4517;
+message OCAGIPAPHMI {
+	repeated IEMEGAMDMEI AKNIFMLAGMB = 9;
+}

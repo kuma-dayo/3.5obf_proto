@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GIELCMCDBEP.proto";
+// cmdid = 5088;
+message BLJGDDIJIHG {
+	bool PIHGIEKDLAE = 7;
+	GIELCMCDBEP NKFBNMPNFLK = 15;
+}

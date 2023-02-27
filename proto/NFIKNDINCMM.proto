@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JJOLFAPBPNN.proto";
+// cmdid = 3125;
+message NFIKNDINCMM {
+	JJOLFAPBPNN JJELPGGOMFA = 5;
+	uint32 ALHFOICMAPN = 15;
+}

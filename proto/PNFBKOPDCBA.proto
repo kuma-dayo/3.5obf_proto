@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 8836;
+message PNFBKOPDCBA {
+	uint32 BNMAKJJHLFO = 3;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PGJPCBNFOEP.proto";
+message CHHJEPHFEFF {
+	repeated PGJPCBNFOEP EPLLNIBLKFI = 15;
+}

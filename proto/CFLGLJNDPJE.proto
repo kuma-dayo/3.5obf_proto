@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADGGCNMABEF.proto";
+message CFLGLJNDPJE {
+	ADGGCNMABEF HOMEMKJDJDA = 1;
+	string NFENLNLBALM = 2;
+	uint64 HCAJGIACFHD = 3;
+	uint32 JNELMHOHOGA = 4;
+}

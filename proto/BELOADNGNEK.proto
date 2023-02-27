@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KMNAIPMHDEG.proto";
+// cmdid = 3543;
+message BELOADNGNEK {
+	repeated KMNAIPMHDEG HGFKLEBEMEL = 11;
+}

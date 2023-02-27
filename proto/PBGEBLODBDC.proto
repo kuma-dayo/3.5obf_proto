@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FOPGOIJCICK.proto";
+// cmdid = 842;
+message PBGEBLODBDC {
+	repeated FOPGOIJCICK OAIEGGADNBK = 14;
+}

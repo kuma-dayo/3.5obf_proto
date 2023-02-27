@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFNGPIGNBJJ.proto";
+import "ABMCDDFMBOC.proto";
+message LIEADIEKNIB {
+	uint32 AKNENDGLAKF = 3;
+	float JIBCOJAPDID = 5;
+	DFNGPIGNBJJ GCPGKFMLCBN = 2;
+	uint32 NADHGDLPMMG = 12;
+	map<uint32, uint32> HKOOCDMMEOA = 14;
+	uint32 OHODFJIHBAO = 1;
+	uint32 CMIHKIPICLF = 10;
+	uint32 PKLELIGCAKG = 9;
+	repeated ABMCDDFMBOC NNOHLIPELAF = 4;
+}

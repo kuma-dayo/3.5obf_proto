@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DGNHHEPOEIP.proto";
+import "GOGCALJCAMC.proto";
+// cmdid = 946;
+message FIIOKEKPAFG {
+	repeated DGNHHEPOEIP EEHHAKAMFCK = 6;
+	repeated uint32 JGPGEAABDEB = 14;
+	uint32 EMLPPGEMHIP = 11;
+	map<uint32, GOGCALJCAMC> KBDMAEAPEDF = 5;
+	uint32 CNJPBOGPIIO = 3;
+}

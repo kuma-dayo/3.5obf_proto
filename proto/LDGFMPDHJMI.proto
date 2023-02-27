@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ILEGGBKJDDK.proto";
+// cmdid = 1250;
+message LDGFMPDHJMI {
+	float NGPPMBLMNKM = 15;
+	uint32 OBJHIBMMBFL = 5;
+	float OMIABDOGDDG = 13;
+	ILEGGBKJDDK NJJCGHHNKKK = 4;
+}

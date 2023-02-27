@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MCOPOAMEGCP.proto";
+message FHPJMFLJECD {
+	MCOPOAMEGCP DDCEBAFONFE = 15;
+	uint32 CAJIOBDFNIA = 6;
+	MCOPOAMEGCP AAKFMBAPCON = 14;
+	uint32 GIKPEIDOKFK = 2;
+}

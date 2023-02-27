@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONHDINIKADE.proto";
+message FHHNDAIOPNP {
+	uint32 BILMPNNKDOK = 1;
+	uint32 BGDJKDGHLAC = 2;
+	uint32 JJMJPMJGDBM = 3;
+	uint32 IPFKBAOAKOO = 5;
+	ONHDINIKADE ELGLNPKINED = 6;
+}

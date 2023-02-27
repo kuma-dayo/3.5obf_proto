@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AFPNKHJMJLE.proto";
+message LIBILADMDKG {
+	bool FAKIMLNNBEM = 1693;
+	uint32 MIIJENHEGKM = 4;
+	repeated AFPNKHJMJLE LIMNJDINDPM = 1953;
+	uint32 GFHFCDLNKJN = 911;
+	uint32 CPLOPDACNIO = 10;
+	string LCHOAELNMOG = 8;
+	uint32 CPFHBFJAIKM = 15;
+	string CBGDCCGEENK = 5;
+	uint32 HHLLOFHAAMC = 11;
+	uint32 DNOFKFCDACG = 1245;
+	uint32 CKGILELPNBB = 7;
+	repeated uint32 GLCACFOAIPJ = 1564;
+	string JMBMDJIFNLC = 1128;
+	string GMMNLCGHOJK = 12;
+	uint32 BPPIJIPDBHI = 2;
+	string AMNBEBOJAIJ = 1;
+	uint32 JNDOABOIPDC = 3;
+	repeated uint32 CCAJOPBBMNN = 446;
+	uint32 NFLGHGIANAO = 9;
+	uint32 FMMPDKFDNOK = 1298;
+	string CHJOIEIHPBG = 67;
+	uint32 OEHPMCLMPPD = 14;
+	uint32 BMOAKOLCPNA = 13;
+	uint32 LBJCHDFPKAK = 6;
+	string JHJCLDNKNON = 1718;
+	uint32 OCKNKNMFNMA = 1755;
+}

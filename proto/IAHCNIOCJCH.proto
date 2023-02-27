@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GNNLENFEFKP.proto";
+message IAHCNIOCJCH {
+	uint32 IJJCHCCBNFN = 4;
+	GNNLENFEFKP ODNFICCMMEA = 1;
+}

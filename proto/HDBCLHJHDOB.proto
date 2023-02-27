@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PDLBLABILBO.proto";
+import "JPEDGKIPECE.proto";
+// cmdid = 5925;
+message HDBCLHJHDOB {
+	PDLBLABILBO FNNCKHHJPGO = 2;
+	uint32 BLPCIIMFMEK = 12;
+	uint32 HFMDMIHCLIF = 8;
+	int32 KGDJLCEGLGJ = 7;
+	JPEDGKIPECE CHBHDAAIMEF = 6;
+}

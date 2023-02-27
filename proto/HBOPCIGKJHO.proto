@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PONFDKGBPMB.proto";
+import "FBDKBKEHACB.proto";
+import "LBJMAKBIBJO.proto";
+// cmdid = 1613;
+message HBOPCIGKJHO {
+	repeated PONFDKGBPMB EEAFEDHBJGO = 9;
+	repeated FBDKBKEHACB EEHHAKAMFCK = 1;
+	repeated uint64 MFFBCEJFBNB = 11;
+	uint32 GNMIDNCNJKM = 14;
+	map<uint32, LBJMAKBIBJO> IFBJAGNIKBA = 7;
+	repeated uint32 OGLICEFIDDE = 2;
+	uint64 AFCPLOOCBCE = 6;
+	repeated uint32 FCEJBGCGLBI = 12;
+	repeated uint32 DHBDMNJNPIC = 10;
+}

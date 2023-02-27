@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GIELCMCDBEP.proto";
+// cmdid = 5072;
+message DNFALBNOKOJ {
+	GIELCMCDBEP NKFBNMPNFLK = 8;
+}

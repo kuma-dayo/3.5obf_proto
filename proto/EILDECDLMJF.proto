@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FFEPOPDPELC.proto";
+// cmdid = 4957;
+message EILDECDLMJF {
+	uint32 ALHFOICMAPN = 2;
+	FFEPOPDPELC MGJFDPMHPPE = 14;
+	bool GPFPHBPCOAD = 10;
+}

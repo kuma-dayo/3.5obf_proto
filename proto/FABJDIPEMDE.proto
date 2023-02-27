@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONKIMGOMOEL.proto";
+// cmdid = 685;
+message FABJDIPEMDE {
+	uint32 NJJCGHHNKKK = 6;
+	repeated uint32 EMANLOBNGEL = 2;
+	FABJDIPEMDE.EHAEEIFELIH.ONKIMGOMOEL DBHKDJGBEJN = 10;
+	bool OJDJCBEPPAJ = 15;
+	repeated uint32 EPJHGAENOMB = 1;
+}

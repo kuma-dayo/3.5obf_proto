@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CCIIHPEKIPM.proto";
+message OPKIHIDNCBK {
+	bool FADEIHLFICK = 12;
+	repeated CCIIHPEKIPM KENHLJNHDII = 6;
+	uint32 HIELOJEMMOF = 1;
+}

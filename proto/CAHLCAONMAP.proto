@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "COFIOGPCLNN.proto";
+message CAHLCAONMAP {
+	uint32 NJKNFBMKGJH = 2;
+	repeated COFIOGPCLNN HHLGDBOFGIC = 11;
+	bool POMNMONBPHJ = 6;
+	repeated uint32 MGIJBBHAPKB = 3;
+	uint32 GMMHGJCOIIJ = 15;
+	bool KKIDECDHDIG = 1;
+}

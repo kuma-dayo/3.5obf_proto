@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MOOPCKFOLNC.proto";
+message MACMCNLAMHB {
+	bool MCHBEMFFAIM = 9;
+	repeated MOOPCKFOLNC MEJMKGOOFAO = 15;
+	uint32 LENBKACFOPG = 2;
+	map<uint32, uint32> APKAMFJEMGH = 6;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CNKNLMCLGEE.proto";
+message GFEOHCLAHME {
+	uint32 JDEGODEIKBO = 11;
+	uint32 EJMBBPFJLAI = 6;
+	CNKNLMCLGEE NJJCGHHNKKK = 2;
+	uint32 AENJDGGCGKG = 7;
+}

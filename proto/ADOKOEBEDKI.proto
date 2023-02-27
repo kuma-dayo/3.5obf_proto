@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PJOPDHANLEM.proto";
+// cmdid = 4001;
+message ADOKOEBEDKI {
+	PJOPDHANLEM LLLJODMBIFD = 3;
+	int32 KGDJLCEGLGJ = 10;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PONFDKGBPMB {
+	uint32 IFFHHNGDILP = 1;
+	string NJPGMBCLFLE = 11;
+}

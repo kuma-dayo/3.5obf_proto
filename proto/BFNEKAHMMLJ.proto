@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KIAFPEPPCEL.proto";
+message BFNEKAHMMLJ {
+	repeated KIAFPEPPCEL GINLMKINBAI = 8;
+	uint32 PHMGODJLELB = 1;
+}

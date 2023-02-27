@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CMMDBGIFBAL.proto";
+// cmdid = 1648;
+message KKADAHCNCNG {
+	map<uint64, CMMDBGIFBAL> ALNLDOEBBAA = 8;
+}

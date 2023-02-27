@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHBAACKKKEC.proto";
+import "IHFHAKKFMHG.proto";
+// cmdid = 318;
+message EPIELDONIHF {
+	repeated IHBAACKKKEC IJCOMEDDEEK = 13;
+	IHFHAKKFMHG CAMKJLDDMOJ = 9;
+}

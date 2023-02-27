@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OCLNGLCLKII.proto";
+// cmdid = 903;
+message POKDLKEBOPO {
+	repeated POKDLKEBOPO.BJPDFJJGHDP.OCLNGLCLKII DIIEMMHAGDK = 12;
+}

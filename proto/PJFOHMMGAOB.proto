@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ECDLKNIAMAF.proto";
+// cmdid = 6150;
+message PJFOHMMGAOB {
+	uint32 ADEPIGNGEGB = 4;
+	repeated ECDLKNIAMAF JFGKIAFIACM = 1;
+	bool BGLGEJDMJEF = 5;
+	repeated int32 AKIKOKKELGB = 11;
+}

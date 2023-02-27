@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IMEFDIKAJBD.proto";
+// cmdid = 2693;
+message PFKCLOLEDDE {
+	repeated IMEFDIKAJBD PKMGBDFNIJL = 2;
+}

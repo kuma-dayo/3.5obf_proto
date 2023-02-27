@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NFCMDLFAPCF.proto";
+// cmdid = 6326;
+message FEGFMGMLCKG {
+	repeated NFCMDLFAPCF ECBPHJANPNO = 1;
+	repeated NFCMDLFAPCF DBEPJDCMOLE = 12;
+}

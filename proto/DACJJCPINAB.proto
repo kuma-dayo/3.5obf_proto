@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FNABEPABCNG.proto";
+// cmdid = 4600;
+message DACJJCPINAB {
+	string OOGLBFPPGIA = 12;
+	FNABEPABCNG OENOLGFLCMD = 3;
+	int32 KGDJLCEGLGJ = 13;
+}

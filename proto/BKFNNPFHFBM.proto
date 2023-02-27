@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KNIKNHIMAFF.proto";
+// cmdid = 2775;
+message BKFNNPFHFBM {
+	repeated KNIKNHIMAFF IMFCAGNOCHC = 15;
+	int32 KGDJLCEGLGJ = 14;
+}

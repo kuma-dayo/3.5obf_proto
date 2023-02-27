@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GMIFBLJMMNA.proto";
+import "PDKLFCHIAMH.proto";
+message OPNBGGNPPOE {
+	repeated GMIFBLJMMNA AIEDPOOHOAC = 5;
+	map<uint32, PDKLFCHIAMH> NCNBPGFFDPA = 6;
+}

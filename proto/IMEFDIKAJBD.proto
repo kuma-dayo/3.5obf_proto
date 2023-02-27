@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JPGOFPINCMO.proto";
+message IMEFDIKAJBD {
+	uint32 FEGEHALOHGP = 2;
+	uint32 JOJPEGEGFEP = 13;
+	IMEFDIKAJBD.MCFFKFLNPHB.JPGOFPINCMO FIPNMPFCEGP = 6;
+	uint32 OIMLJCPFGOI = 5;
+	uint32 JNCFHOMOELK = 9;
+}

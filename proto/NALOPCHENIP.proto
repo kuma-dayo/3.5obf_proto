@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADGGCNMABEF.proto";
+message NALOPCHENIP {
+	uint32 CJOFDEIAKGA = 8;
+	ADGGCNMABEF BBJKJIKMFHN = 6;
+	uint32 BNHECFDGMJI = 14;
+}

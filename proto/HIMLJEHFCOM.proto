@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 8364;
+message HIMLJEHFCOM {
+	repeated uint32 CENCJOJGIHH = 13;
+	uint32 BECFPDKLMDG = 4;
+	repeated uint32 NMNMHPDMAHB = 15;
+	uint32 IIEIBOOCADL = 9;
+	uint32 BBGNIFAJKNO = 10;
+}

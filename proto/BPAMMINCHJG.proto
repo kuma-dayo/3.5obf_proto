@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "INNMBACLEMO.proto";
+// cmdid = 7403;
+message BPAMMINCHJG {
+	INNMBACLEMO EECICOLDDJK = 4;
+	uint32 MPFHKFHKMPP = 10;
+}

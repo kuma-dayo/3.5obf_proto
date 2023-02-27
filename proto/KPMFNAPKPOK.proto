@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BOIBNONOGBF.proto";
+message KPMFNAPKPOK {
+	repeated BOIBNONOGBF NLLKGBDMLKM = 14;
+	bool HADODOKJNLK = 1;
+	uint32 PINIGNAMHPD = 3;
+	uint32 PJDOLKBOPNF = 11;
+}

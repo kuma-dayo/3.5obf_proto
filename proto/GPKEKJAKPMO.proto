@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NEOMIACADNF.proto";
+// cmdid = 4262;
+message GPKEKJAKPMO {
+	NEOMIACADNF KEKHLLILJCB = 12;
+}

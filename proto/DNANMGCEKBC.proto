@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MNNNCKCAGLP.proto";
+message DNANMGCEKBC {
+	bool MGKKBCPJJGL = 9;
+	uint32 FKNKPNNFELO = 12;
+	repeated MNNNCKCAGLP OBPIINPBBFH = 2;
+}

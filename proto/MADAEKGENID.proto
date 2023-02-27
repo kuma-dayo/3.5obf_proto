@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FGJCCIGNBNB.proto";
+message MADAEKGENID {
+	uint32 GDIOEPBHILG = 11;
+	bool HJFKAEBPKAE = 10;
+	uint32 HLAEIBALAAJ = 13;
+	uint32 HPNNJMFOFHO = 7;
+	repeated FGJCCIGNBNB EENJOFHAJKO = 15;
+	uint64 PMEFDJLGLIE = 8;
+	uint32 POLMLKNBFMO = 1;
+	uint32 NMGLCJIBNIJ = 6;
+}

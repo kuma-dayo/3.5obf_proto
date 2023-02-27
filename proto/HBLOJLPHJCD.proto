@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LGAFMFIJKIE.proto";
+// cmdid = 3457;
+message HBLOJLPHJCD {
+	LGAFMFIJKIE BGBLGLGDOLP = 14;
+	uint32 BILMPNNKDOK = 7;
+}

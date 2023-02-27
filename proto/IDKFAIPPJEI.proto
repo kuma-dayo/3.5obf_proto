@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADGGCNMABEF.proto";
+import "HJLECMBBPOF.proto";
+// cmdid = 175;
+message IDKFAIPPJEI {
+	uint32 DBPBPHNGDDC = 15;
+	bool PJENJIFAIGM = 1113;
+	uint32 BCNFPMIEJJE = 1419;
+	ADGGCNMABEF KHIPPGECDJC = 9;
+	string PPNNNKIHHBM = 1;
+	string JFAGDDLACFL = 185;
+	string MICOLDOCIJC = 1406;
+	uint32 FHOADBOABML = 14;
+	uint32 MMJBJPIPJNC = 687;
+	repeated uint32 NHDLFEAKBEB = 184;
+	uint64 NFLDLEILCDD = 8;
+	uint32 PHNPKJPGOLO = 11;
+	uint32 ALHFOICMAPN = 1757;
+	bool ICCFIPMGPAB = 2;
+	uint32 CLNNLKLOBDE = 207;
+	string CFEPMLJFMOF = 531;
+	bool EAELGKPAIPG = 723;
+	string FBGOHKCGBJL = 445;
+	uint32 BKBDGOCMFJN = 6;
+	string PECEDOGNEAN = 1937;
+	ADGGCNMABEF BMIGDEBFDIL = 4;
+	string PJOOBKDBLII = 13;
+	bool NMODHGNNICE = 10;
+	int32 KGDJLCEGLGJ = 5;
+	string FBBBFKKAOOJ = 7;
+	string NFENLNLBALM = 3;
+	uint32 DBCCJNACOOK = 1043;
+	uint32 ECIMDDCMBGH = 12;
+	string LLOEFBMIELL = 1563;
+	uint32 KBKPJHGDNMA = 751;
+	string HNEIKAKMKCH = 1398;
+	HJLECMBBPOF JHPHNKDPKAF = 628;
+}

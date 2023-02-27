@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NLBMAKMGHOE.proto";
+message IKCAPLALLPO {
+	repeated NLBMAKMGHOE ECFLDLNCGNB = 1;
+}

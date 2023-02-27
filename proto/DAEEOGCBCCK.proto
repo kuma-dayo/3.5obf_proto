@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONKNDCHIGIA.proto";
+message DAEEOGCBCCK {
+	repeated ONKNDCHIGIA ANOBGIHPNKK = 15;
+}

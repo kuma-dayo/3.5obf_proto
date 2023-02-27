@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LMHJMCBLEMN.proto";
+// cmdid = 8818;
+message MHGDLKCNJOF {
+	LMHJMCBLEMN ILKEEIEFDHG = 5;
+	bool AHKDNPIKCNJ = 15;
+}

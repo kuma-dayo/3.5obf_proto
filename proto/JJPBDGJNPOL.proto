@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PENJFODAGGI.proto";
+import "IAIKHNIKNHG.proto";
+message JJPBDGJNPOL {
+	map<uint32, PENJFODAGGI> EMAOBPPDGLD = 11;
+	uint32 HFLJOCNMJAF = 5;
+	IAIKHNIKNHG NJJCGHHNKKK = 1;
+	int32 ECFBDJHMBJP = 14;
+	map<uint32, PENJFODAGGI> JFBDKMJOBGE = 8;
+}

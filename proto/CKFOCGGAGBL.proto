@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JADEEKLDMOG.proto";
+message CKFOCGGAGBL {
+	uint32 GKJGHBKPDCO = 4;
+	uint32 AHHAIJNPOLL = 2;
+	uint32 HBHPAJFFPIM = 12;
+	uint32 BLLCGCNNJOH = 7;
+	bool JPGABENNMNB = 15;
+	uint32 EHFGHJMLFBJ = 6;
+	JADEEKLDMOG ENCDJCOPBFI = 10;
+	uint32 CNJPBOGPIIO = 11;
+	uint32 JNDOABOIPDC = 9;
+}

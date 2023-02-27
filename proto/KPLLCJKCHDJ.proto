@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONHDINIKADE.proto";
+import "KDMMAILHMCH.proto";
+message KPLLCJKCHDJ {
+	ONHDINIKADE INOILIICDIJ = 4;
+	uint32 KIECDNFLONE = 8;
+	KDMMAILHMCH PMFEMEINODA = 1;
+}

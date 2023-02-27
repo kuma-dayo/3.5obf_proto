@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JPEDGKIPECE.proto";
+// cmdid = 4271;
+message ILBKGJILLKB {
+	repeated JPEDGKIPECE COGNCHAOPNO = 2;
+	repeated JPEDGKIPECE JFKOGBPJIPM = 6;
+}

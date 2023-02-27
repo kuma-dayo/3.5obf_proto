@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ALAMJIMOCOP.proto";
+import "KFMDIFPCNOC.proto";
+message NNCOMCGMPBK {
+	repeated ALAMJIMOCOP ENIJAKGGPBK = 4;
+	KFMDIFPCNOC HEHOMFCHAOL = 13;
+}

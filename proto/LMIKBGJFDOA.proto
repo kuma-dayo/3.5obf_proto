@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CFNFHECAPPI.proto";
+import "EFLDHGLFIDD.proto";
+// cmdid = 750;
+message LMIKBGJFDOA {
+	repeated CFNFHECAPPI FLCFOODKDCO = 9;
+	repeated EFLDHGLFIDD JKABMOAGLNL = 15;
+	int32 KGDJLCEGLGJ = 11;
+	uint32 JLPFLDPJEHO = 13;
+}

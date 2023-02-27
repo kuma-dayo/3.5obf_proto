@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NNHECDNAAAO.proto";
+message FEGCMMBGONJ {
+	int32 GICDIIPNOPG = 1;
+	NNHECDNAAAO CMCHNKMLDOO = 2;
+}

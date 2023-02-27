@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PHDAPKDOAPI.proto";
+import "ADGGCNMABEF.proto";
+import "KJGMEKEGPNF.proto";
+import "DLMEBOALIGP.proto";
+import "LFCFFHIAGBN.proto";
+// cmdid = 164;
+message ILMEAIEFCFO {
+	string HNEIKAKMKCH = 1816;
+	bool ECIMMLELHOK = 1683;
+	repeated PHDAPKDOAPI OFCIAMDJBGD = 983;
+	bool EBAEDKEKLLG = 35;
+	ADGGCNMABEF EHNILHNJNJC = 1712;
+	bool KDDFMKDDPCB = 1013;
+	KJGMEKEGPNF EPFBADHNFME = 109;
+	string EEOJPFCLGPN = 451;
+	string MICOLDOCIJC = 819;
+	bool GLOILMJMELG = 2;
+	string AKFNFOGIMLH = 1261;
+	map<string, int32> OBJLOPIEIDI = 1;
+	bool EONKNMJFPLB = 475;
+	string EILAPOPMDAP = 1270;
+	uint32 PFOHFGICFMJ = 7;
+	uint32 IKBNABLPDBL = 13;
+	bool NEGECHFKDML = 12;
+	uint32 JENDMAKJAOM = 629;
+	string DBGGNDNLGID = 125;
+	string CGPCMGIAOHD = 14;
+	bool BGHKOAOGFFJ = 877;
+	uint32 KKBLNMACKGE = 5;
+	uint64 KJJALEHJPCJ = 4;
+	int32 KGDJLCEGLGJ = 11;
+	double OELGJNFFEKG = 1220;
+	uint32 ONFPMFCFOHH = 6;
+	string BCKHINFLDGI = 1434;
+	bool IBPJEMFFELL = 67;
+	KJGMEKEGPNF CBECHEABCCB = 196;
+	map<uint32, DLMEBOALIGP> IFCBBAJPMNL = 336;
+	ADGGCNMABEF MNNDDPGBGMN = 3;
+	int32 HBGLCHIONPN = 15;
+	bool OJHGJFHPAMO = 9;
+	string HIOOEKOBHOG = 165;
+	repeated LFCFFHIAGBN CCKCNDIINHF = 1376;
+}

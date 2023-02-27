@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "KFALPHIPJOK.proto";
+// cmdid = 4344;
+message HDMIAHCJMLG {
+	bool FNKCHDFALIA = 5;
+	uint32 MGLOPPNJEHO = 6;
+	DALMLFNANKL LBMNDEODHKP = 2;
+	KFALPHIPJOK ILIALKDNLDK = 13;
+}

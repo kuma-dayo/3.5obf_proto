@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CDDKKKCFJAI.proto";
+// cmdid = 2314;
+message JHBDBDPACBO {
+	bool IGJCAEADKBA = 11;
+	uint32 ADEPIGNGEGB = 15;
+	uint32 NHFHFOGGJMO = 1;
+	uint32 FBGJOIGBEKB = 13;
+	uint32 OMDBOLGGFOM = 4;
+	repeated CDDKKKCFJAI FACAMPJLGKE = 12;
+}

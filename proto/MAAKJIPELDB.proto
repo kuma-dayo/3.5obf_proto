@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message MAAKJIPELDB {
+	uint32 KBCACDELFHH = 12;
+	uint32 MBPFOLCELFG = 14;
+	uint32 JIELPDEKFID = 15;
+	uint32 OGDIDPGANCD = 1;
+	uint32 EAGHMMNADAG = 8;
+	uint32 NDPBNIGHIED = 6;
+}

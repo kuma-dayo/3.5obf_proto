@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MJJFCCFKLNI.proto";
+// cmdid = 5067;
+message POLODMBEAHE {
+	int32 KGDJLCEGLGJ = 5;
+	uint32 CDBBLJHCFCH = 10;
+	MJJFCCFKLNI ELINJNHGCCG = 4;
+	uint32 AMJJNBMDMBO = 12;
+}

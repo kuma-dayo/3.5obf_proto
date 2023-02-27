@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GEEMGFBPEGC.proto";
+import "EHGNPLKIBNP.proto";
+message IHPHFDDEJPE {
+	repeated uint32 GJPEOMOGIAC = 14;
+	map<uint32, GEEMGFBPEGC> LEJDGPOHICK = 6;
+	EHGNPLKIBNP AKCBPHBBNFI = 4;
+	bool FMJJBBELKJF = 11;
+	uint32 LPOMFMOLMIB = 15;
+	uint32 FBLGCOPMKEI = 7;
+}

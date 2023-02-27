@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DJAIIAIHBKG.proto";
+// cmdid = 206;
+message LABKKBMBJPG {
+	uint32 HGJPDNNIKNO = 12;
+	uint32 OCCPNENEJJK = 4;
+	uint32 COEBAGAAPPL = 5;
+	DJAIIAIHBKG PGPPHFGEELP = 15;
+}

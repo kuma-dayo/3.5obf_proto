@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message ALAMJIMOCOP {
+	uint32 CAJIOBDFNIA = 6;
+	bool PMHOFLKOKBG = 2;
+	uint32 HEGPFDNOKCI = 13;
+	bool HADODOKJNLK = 8;
+	uint32 NPLNBMGMNFO = 3;
+	uint32 GIKPEIDOKFK = 11;
+}

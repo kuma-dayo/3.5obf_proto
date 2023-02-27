@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "POKOFBAJMFO.proto";
+message CBEGBPBBDMB {
+	uint32 KJGODJLLIIB = 12;
+	POKOFBAJMFO JIELPDEKFID = 3;
+}

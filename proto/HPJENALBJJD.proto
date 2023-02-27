@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DPBAJDJIMAA.proto";
+message HPJENALBJJD {
+	uint32 HFLJOCNMJAF = 15;
+	DPBAJDJIMAA HPJBAJBJDLN = 2;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KOHDDNNKDAG.proto";
+// cmdid = 136;
+message KOAJCOGAHIE {
+	bool HIOJBJOINEE = 9;
+	KOHDDNNKDAG GPKKIHNIJBF = 13;
+}

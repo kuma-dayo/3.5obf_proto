@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DOINBFHLBHP.proto";
+message AOHEFFCPELI {
+	uint32 HFLJOCNMJAF = 11;
+	uint64 LBJCHDFPKAK = 5;
+	uint64 CCOHIFCFEHC = 12;
+	DOINBFHLBHP GBGJCHIHJLC = 14;
+}

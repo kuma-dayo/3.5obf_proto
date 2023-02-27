@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+message OLACJIOMDIO {
+	uint32 DBPBPHNGDDC = 5;
+	DALMLFNANKL OIGHDDEODCB = 3;
+	DALMLFNANKL FHNLCNBJGGN = 7;
+}

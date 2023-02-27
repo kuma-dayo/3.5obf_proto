@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PEDADDDLODK.proto";
+message ONKNDCHIGIA {
+	bool PMHOFLKOKBG = 6;
+	uint32 PINIGNAMHPD = 5;
+	repeated PEDADDDLODK EPLLNIBLKFI = 11;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message JPOMNGOBDIO {
+	uint32 DMHADNJPEDM = 1;
+	uint32 DPDDABMPKGB = 2;
+}

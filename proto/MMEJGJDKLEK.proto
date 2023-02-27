@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OLACJIOMDIO.proto";
+import "ICLKJAFLECK.proto";
+// cmdid = 211;
+message MMEJGJDKLEK {
+	repeated OLACJIOMDIO MKDIAHDNHKL = 8;
+	repeated ICLKJAFLECK EAPHDGMOHHP = 1;
+}

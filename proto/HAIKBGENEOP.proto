@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 8794;
+message HAIKBGENEOP {
+	int32 KGDJLCEGLGJ = 6;
+	uint32 BECFPDKLMDG = 4;
+	uint32 IIEIBOOCADL = 5;
+	repeated uint32 NMNMHPDMAHB = 9;
+}

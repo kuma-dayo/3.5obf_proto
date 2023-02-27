@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FPBAKHENGML.proto";
+import "LHCNFJEHPLP.proto";
+// cmdid = 4254;
+message CAPCHPIFEGL {
+	FPBAKHENGML HOBMKDDCCHN = 7;
+	LHCNFJEHPLP JFIPLCNAHOD = 13;
+}

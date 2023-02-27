@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ACOGHICAGEN.proto";
+// cmdid = 3465;
+message CHGPAKDGCEC {
+	repeated ACOGHICAGEN LGFOIOIJGAJ = 12;
+	int32 KGDJLCEGLGJ = 9;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LANGJAKENPJ.proto";
+message CNCEIOHAKKI {
+	bool PMHOFLKOKBG = 12;
+	uint32 PINIGNAMHPD = 2;
+	repeated LANGJAKENPJ EDKFFLADLPM = 11;
+	uint32 PJDOLKBOPNF = 13;
+	uint32 CAJIOBDFNIA = 7;
+}

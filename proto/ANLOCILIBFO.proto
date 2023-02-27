@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 1720;
+message ANLOCILIBFO {
+	uint64 ICLLHOFJLFE = 12;
+	repeated uint64 BAMBBLCIKGM = 11;
+}

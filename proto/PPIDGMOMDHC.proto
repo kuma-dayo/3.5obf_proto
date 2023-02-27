@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AKIMCMDLPEK.proto";
+// cmdid = 8967;
+message PPIDGMOMDHC {
+	uint32 BMBFJLFMJDG = 10;
+	AKIMCMDLPEK ICIDLINNBHO = 6;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCJAHMGAAGM.proto";
+// cmdid = 272;
+message DPLGLLKDHHD {
+	uint32 ANHMIBEFAFF = 15;
+	repeated uint32 AMJGJELIJMC = 14;
+	GCJAHMGAAGM FGMCFADNGHE = 8;
+}

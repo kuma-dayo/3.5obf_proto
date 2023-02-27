@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 8278;
+message KKNNAGLMLKD {
+	uint32 MBPGKEFKEEG = 1;
+	uint32 KHIAKLDIGCN = 14;
+	uint64 EDEGJCKDGMH = 6;
+	uint32 GPHBHKOILML = 1954;
+	uint32 HCPDFLOHEBF = 15;
+	bool AHFLIGOJIPM = 3;
+	uint32 IIDHMKHJMEK = 181;
+	repeated uint32 EIOLNDFKDAM = 630;
+	uint32 AKNENDGLAKF = 2;
+	bool PGKDNPPPBKL = 1707;
+	uint32 POJGFNIHMIB = 1085;
+	bool DELCNEEKOID = 634;
+	float FIENFDNONGI = 1108;
+	repeated uint32 HBJGGGDOPOD = 13;
+	uint32 LPJNALJHJPK = 8;
+	uint32 CGDOCCLOMIM = 10;
+	uint32 FPBHOBGOHNG = 4;
+	uint32 DMDHEHJIBFN = 12;
+}

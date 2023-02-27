@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CBGLBMMCPPK.proto";
+import "JBGIPMFDPLF.proto";
+import "KPHNGIEIKOJ.proto";
+message HGOBDHKMDHO {
+	uint32 NNKGADMMNBO = 1;
+	CBGLBMMCPPK NBAANLADIND = 4;
+	repeated JBGIPMFDPLF OAIEGGADNBK = 7;
+	uint32 DNJIJIBJOCF = 8;
+	uint32 ONCALLEOLIH = 9;
+	uint32 FOMHIAKHKDO = 10;
+	bool KIFKBJKGGJF = 11;
+	bool HFMEACJNKGM = 12;
+	uint32 FKNKPNNFELO = 13;
+	repeated string FDDMEDDFDBH = 14;
+	KPHNGIEIKOJ COBBBFDBNFL = 15;
+}

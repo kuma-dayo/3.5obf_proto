@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LIBILADMDKG.proto";
+// cmdid = 1575;
+message JAKIOIAMJIJ {
+	repeated LIBILADMDKG KMMPGCIMIFP = 6;
+	int32 KGDJLCEGLGJ = 13;
+	bool KCGDLADKNPG = 11;
+	bool OEMMGPDJPHO = 1;
+	uint32 DEOEOJONKKB = 14;
+	uint32 BEAMOBIEDOL = 8;
+}

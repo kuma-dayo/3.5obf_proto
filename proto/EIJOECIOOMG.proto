@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message EIJOECIOOMG {
+	uint32 KAHPKACDCAG = 10;
+	float GDICPLFJJLL = 15;
+	uint32 IDDECAKMLAI = 14;
+	float MAJEPOLECAJ = 7;
+}

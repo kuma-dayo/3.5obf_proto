@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message BLAPHKFLNJB {
+	uint32 JFKODGFNHCH = 9;
+	bool PMHOFLKOKBG = 8;
+	uint32 CNJPBOGPIIO = 2;
+}

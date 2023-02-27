@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PBJCNECPFLE.proto";
+// cmdid = 130;
+message IHPCDCEIDJD {
+	uint32 MLKIIBOFGKM = 10;
+	uint32 OIBCLDCHDOL = 8;
+	repeated PBJCNECPFLE MCMFCFCCIEJ = 6;
+}

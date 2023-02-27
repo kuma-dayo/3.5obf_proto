@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GICCALFNADA.proto";
+// cmdid = 6298;
+message MFOHEHLPGKC {
+	bool PHEMEJJIDPL = 3;
+	uint32 OAKHOMEKLKB = 6;
+	repeated GICCALFNADA EFJLFGIMEOL = 5;
+	string BBEODNHOOAJ = 4;
+	bool ABKNAHBEJIP = 14;
+}

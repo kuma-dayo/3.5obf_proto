@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFAGFMNLFKD.proto";
+message NGFKBELCGDK {
+	DFAGFMNLFKD JIELPDEKFID = 6;
+	uint32 BGAFMBEJKKF = 15;
+	uint32 CNJPBOGPIIO = 3;
+	uint32 IOCIEKCGMEL = 9;
+	uint32 AOHLKDDNOKE = 14;
+}

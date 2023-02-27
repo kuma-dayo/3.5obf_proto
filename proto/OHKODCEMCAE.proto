@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ELEEFNHCAOL.proto";
+message OHKODCEMCAE {
+	repeated ELEEFNHCAOL ANOBGIHPNKK = 15;
+}

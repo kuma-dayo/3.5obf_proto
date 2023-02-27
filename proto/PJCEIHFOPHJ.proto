@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EJLOAGILHJF.proto";
+message PJCEIHFOPHJ {
+	uint32 JNDOABOIPDC = 14;
+	map<uint32, EJLOAGILHJF> CENNLAGBOJE = 7;
+}

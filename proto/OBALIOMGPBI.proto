@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 960;
+message OBALIOMGPBI {
+	int32 KGDJLCEGLGJ = 9;
+	uint32 DPBJHACNBEI = 11;
+}

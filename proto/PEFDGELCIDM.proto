@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DNANMGCEKBC.proto";
+import "KDDEEFOPBJB.proto";
+// cmdid = 8835;
+message PEFDGELCIDM {
+	repeated DNANMGCEKBC BCHHABLCGCC = 13;
+	repeated uint32 IANBLPNICBE = 6;
+	repeated KDDEEFOPBJB ENLIAOCAGLK = 8;
+	repeated uint32 ODFCDOAIGEH = 2;
+	repeated KDDEEFOPBJB GHFIOHMOBIA = 11;
+	repeated uint32 HDBGDCDGEJE = 1;
+	uint32 PINIGNAMHPD = 5;
+	repeated KDDEEFOPBJB EEHHAKAMFCK = 14;
+}

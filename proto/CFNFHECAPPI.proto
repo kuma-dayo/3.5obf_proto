@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EFLDHGLFIDD.proto";
+message CFNFHECAPPI {
+	EFLDHGLFIDD IOKFGGAKPOK = 15;
+	uint32 ODKMCKGICGP = 14;
+}

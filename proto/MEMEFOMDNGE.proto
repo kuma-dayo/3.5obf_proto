@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DAKKMFPGCFN.proto";
+// cmdid = 101;
+message MEMEFOMDNGE {
+	uint32 JNCFHOMOELK = 1;
+	string HFIFHHGADDH = 2;
+	MEMEFOMDNGE.LICOHJHLBNA.DAKKMFPGCFN KGDJLCEGLGJ = 3;
+}

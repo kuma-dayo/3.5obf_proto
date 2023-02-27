@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PHLPMOGFMDN.proto";
+message LJPNPOFMLPJ {
+	uint32 JDBDFAMJADE = 7;
+	uint32 DBPBPHNGDDC = 3;
+	repeated PHLPMOGFMDN KGLOHMHOPMG = 6;
+	bool EGGCAKHDPFM = 12;
+	uint32 BJDFKNGMHOC = 9;
+}

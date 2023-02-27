@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AFKACLJCCHI.proto";
+import "DAEEOGCBCCK.proto";
+import "OHKODCEMCAE.proto";
+message KBEAIPPOPPC {
+	AFKACLJCCHI CKKOPNADJAJ = 15;
+	DAEEOGCBCCK EOAMMAPCEDH = 12;
+	OHKODCEMCAE INJGBKFNDEI = 1;
+}

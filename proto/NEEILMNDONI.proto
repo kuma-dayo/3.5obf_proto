@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NGFKBELCGDK.proto";
+import "KEKIOJDBHEP.proto";
+// cmdid = 8557;
+message NEEILMNDONI {
+	uint32 NOEKMIOJDIM = 9;
+	uint32 JENGBKFKELF = 2;
+	uint32 PINIGNAMHPD = 15;
+	bool PPADOBBDDHK = 201;
+	map<uint32, NGFKBELCGDK> HEEIBOOCMIN = 7;
+	repeated uint32 HAKPCGAIABC = 10;
+	uint32 CFAKPPANCLC = 13;
+	bool LJFKLNHLHPC = 6;
+	repeated KEKIOJDBHEP KOKAHCGEELL = 11;
+	uint32 CNJPBOGPIIO = 4;
+	uint32 DCCDBFACHKN = 14;
+	uint32 IBGLOLCAHKJ = 275;
+	repeated uint64 EIGEMHKPLMG = 12;
+	float BPNDGLAKACL = 8;
+	uint32 ABNPJPAFLIK = 1502;
+	repeated uint64 FEHBNIMAEGF = 5;
+}

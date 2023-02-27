@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CCNCLHGNBFP.proto";
+// cmdid = 4036;
+message HBKIPDFCPEM {
+	repeated CCNCLHGNBFP EFCLIPMHLCC = 12;
+}

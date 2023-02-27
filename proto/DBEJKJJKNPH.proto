@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LFOHOPALPFM.proto";
+// cmdid = 340;
+message DBEJKJJKNPH {
+	repeated LFOHOPALPFM IGDNJPLMNEL = 14;
+}

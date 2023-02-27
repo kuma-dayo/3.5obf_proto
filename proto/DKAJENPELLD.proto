@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EBCKHAKAFEN.proto";
+message DKAJENPELLD {
+	repeated EBCKHAKAFEN LACDGCCMJOB = 9;
+	uint32 FDGCEDOFGEE = 5;
+	uint32 PINIGNAMHPD = 7;
+	uint32 FFJONMDDLLN = 14;
+	uint32 GIKPEIDOKFK = 1;
+}

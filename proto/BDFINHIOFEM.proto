@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 287;
+message BDFINHIOFEM {
+	uint32 BILMPNNKDOK = 5;
+}

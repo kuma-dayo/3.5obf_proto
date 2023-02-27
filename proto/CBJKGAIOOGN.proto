@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LANGJAKENPJ.proto";
+// cmdid = 8607;
+message CBJKGAIOOGN {
+	repeated LANGJAKENPJ EDKFFLADLPM = 11;
+	uint32 BMLOFMFOHJL = 10;
+	uint32 IIEIBOOCADL = 12;
+	uint32 PINIGNAMHPD = 9;
+}

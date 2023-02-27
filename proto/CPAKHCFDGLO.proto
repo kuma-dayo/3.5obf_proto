@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "OCJFHCPFILC.proto";
+message CPAKHCFDGLO {
+	float FFKMDFAABCN = 7;
+	DALMLFNANKL EPHPLHIBELF = 5;
+	float AMJEGHNIIOL = 9;
+	int32 AOKPDOOHCEN = 2;
+	DALMLFNANKL EGHGAPCFLMD = 4;
+	OCJFHCPFILC EPKDLPFDMHF = 8;
+}

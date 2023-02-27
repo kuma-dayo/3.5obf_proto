@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BCMHCFICCDD.proto";
+// cmdid = 7247;
+message PKKHPCPOIMH {
+	bool DLEPHOKBMPA = 10;
+	BCMHCFICCDD KFHFEFPNLEI = 11;
+}

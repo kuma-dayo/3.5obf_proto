@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CAHLCAONMAP.proto";
+// cmdid = 2454;
+message PDBLNOEODKK {
+	CAHLCAONMAP AKHABEPHDLG = 9;
+}

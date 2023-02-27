@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EMGBOCDIGED.proto";
+import "DALMLFNANKL.proto";
+// cmdid = 3096;
+message ANOGJOOKKKN {
+	ANOGJOOKKKN.GJBFLHAJBIC.EMGBOCDIGED LHJCPHDBHIL = 11;
+	DALMLFNANKL PDKMMOIPCJA = 6;
+	DALMLFNANKL NLHJMIEIPFJ = 1;
+	uint32 HIGNAGMNGEM = 13;
+	repeated string CCBNJINJEDB = 4;
+	uint32 BILMPNNKDOK = 10;
+}

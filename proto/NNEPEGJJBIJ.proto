@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NGHEBOHGDBC.proto";
+import "KLCFLFODAOB.proto";
+import "GFKBLFOPGLF.proto";
+message NNEPEGJJBIJ {
+	NGHEBOHGDBC EBJPJECOODF = 8;
+	string KAGNIABIPBH = 7;
+	KLCFLFODAOB EANKJADEOFJ = 9;
+	string MDNDJJKEOHI = 11;
+	uint32 DBPBPHNGDDC = 10;
+	GFKBLFOPGLF FLMGGEHPBPK = 12;
+	uint32 MEMHMKEBAAP = 15;
+	string PPNNNKIHHBM = 4;
+}

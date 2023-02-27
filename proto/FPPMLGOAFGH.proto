@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HIDNILLDCAD.proto";
+message FPPMLGOAFGH {
+	HIDNILLDCAD JNAGHNPDKDK = 1;
+	int32 EIGLLPNFEJP = 2;
+}

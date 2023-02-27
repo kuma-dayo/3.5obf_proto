@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFNGPIGNBJJ.proto";
+// cmdid = 1848;
+message PKHNOEDAGBD {
+	DFNGPIGNBJJ BMKFJGAOBMO = 5;
+	uint32 CHDDBAAEOND = 7;
+	uint32 LKBNCBOMBFO = 8;
+}

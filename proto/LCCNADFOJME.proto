@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FOPGOIJCICK.proto";
+import "FINJPJBDGIK.proto";
+message LCCNADFOJME {
+	uint32 BNNBPGPDECP = 1;
+	repeated FOPGOIJCICK DDKHIPHAKHB = 2;
+	FINJPJBDGIK PFGMAAAKAPC = 3;
+}

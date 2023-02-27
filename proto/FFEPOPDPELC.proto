@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message FFEPOPDPELC {
+	uint32 ALHFOICMAPN = 7;
+	bool AKONLDJLDPD = 9;
+}

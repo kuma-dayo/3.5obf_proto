@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NFBAMPAFEIG.proto";
+// cmdid = 208;
+message EFMEAGBKNLI {
+	uint32 BCGPINEJHFJ = 12;
+	uint32 ADEPIGNGEGB = 10;
+	repeated NFBAMPAFEIG FKMDNEEMOFG = 14;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JJOLFAPBPNN.proto";
+// cmdid = 3301;
+message NKFMEOIKOGE {
+	uint32 ALHFOICMAPN = 11;
+	repeated JJOLFAPBPNN JJELPGGOMFA = 12;
+}

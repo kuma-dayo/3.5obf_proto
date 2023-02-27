@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PCLCKHPGJKN.proto";
+// cmdid = 2027;
+message JJHDGPCHPHD {
+	map<uint32, PCLCKHPGJKN> AEPHNBNBLDN = 8;
+	uint32 EEAHDCAGPFM = 7;
+}

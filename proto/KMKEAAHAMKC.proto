@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ECMNOHNCFLI.proto";
+message KMKEAAHAMKC {
+	uint32 IFFHHNGDILP = 15;
+	ECMNOHNCFLI NIMLDHAJJNJ = 10;
+	uint32 OMHMJMKLOND = 12;
+}

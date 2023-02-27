@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AAPBIOOIMNP.proto";
+// cmdid = 6172;
+message IANIIFGHKLG {
+	int32 KIEHMJJDHNM = 4;
+	AAPBIOOIMNP BDDPMIHEIAO = 1;
+	int32 KGDJLCEGLGJ = 10;
+}

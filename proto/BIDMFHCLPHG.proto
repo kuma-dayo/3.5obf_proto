@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ODKNHPHCDCG.proto";
+import "KPNLDDPKPIK.proto";
+message BIDMFHCLPHG {
+	repeated ODKNHPHCDCG FIHFLLKPPEE = 14;
+	uint32 NAHBPPPFBAG = 4;
+	repeated uint32 JCBDBGPHPJD = 6;
+	repeated uint32 NABBJDBBBBC = 11;
+	repeated KPNLDDPKPIK PHDMOOFFHIO = 8;
+	bool FADEIHLFICK = 5;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HOJAPBHACAL.proto";
+// cmdid = 24069;
+message MHAFPLJHPLJ {
+	repeated HOJAPBHACAL DBOMDAPDCHH = 7;
+	bool IEMDPMHPFHP = 13;
+	bool HJFKAEBPKAE = 6;
+	uint32 GIKPEIDOKFK = 10;
+}

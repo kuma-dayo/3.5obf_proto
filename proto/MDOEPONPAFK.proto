@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CPANDOCFHFN.proto";
+// cmdid = 4136;
+message MDOEPONPAFK {
+	uint32 JJGMAPOEIAE = 12;
+	repeated CPANDOCFHFN DAKEKLJBKHO = 8;
+}

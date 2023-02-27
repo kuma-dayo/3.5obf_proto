@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message ANHIPICCPMI {
+	uint32 HGFAMJEGPEI = 1;
+	uint32 HOANFFBOCDN = 2;
+	uint64 CPKLOCCHNJL = 3;
+	uint32 JNGPMBNPPFK = 4;
+	uint32 AANMKGPGOMM = 5;
+	bool OMLMBNCIHPI = 6;
+	bool DKDKENBCNBE = 7;
+	repeated uint32 NOONGLGDFPF = 8;
+}

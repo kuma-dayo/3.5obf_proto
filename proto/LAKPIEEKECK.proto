@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KJLDJOOIKOB.proto";
+import "KFALPHIPJOK.proto";
+message LAKPIEEKECK {
+	KJLDJOOIKOB JIELPDEKFID = 4;
+	KFALPHIPJOK ILIALKDNLDK = 12;
+	uint32 DHIKOHLBEHL = 13;
+}

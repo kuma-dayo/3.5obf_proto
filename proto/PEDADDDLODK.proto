@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message PEDADDDLODK {
+	bool PMHOFLKOKBG = 2;
+	uint32 GIKPEIDOKFK = 6;
+	uint32 DELADDDOICF = 1;
+}

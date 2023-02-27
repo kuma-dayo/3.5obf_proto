@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FINEJDCEECI.proto";
+import "MBNENOIDIDO.proto";
+import "LIJKGGFCHOB.proto";
+import "FIMJMLPLPAC.proto";
+// cmdid = 4148;
+message OAMGPILLNIL {
+	FINEJDCEECI HJONENBAHAM = 5;
+	MBNENOIDIDO NDJAIMMKLMK = 10;
+	LIJKGGFCHOB POPFPJFECMM = 14;
+	FIMJMLPLPAC HDIMNDCKCIH = 6;
+}

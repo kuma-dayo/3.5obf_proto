@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IKCAPLALLPO.proto";
+// cmdid = 24190;
+message DOKILHABPNG {
+	IKCAPLALLPO HKEKGOGOBIL = 14;
+	uint32 BILMPNNKDOK = 10;
+}

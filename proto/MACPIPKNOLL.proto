@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PCHDKENMKEJ.proto";
+// cmdid = 974;
+message MACPIPKNOLL {
+	repeated PCHDKENMKEJ JBBNFMCPHLB = 11;
+	uint32 NMGLCJIBNIJ = 8;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 2001;
+message IMECNPNGPNG {
+	uint32 OGMLLODJENA = 11;
+	uint32 IIEIBOOCADL = 6;
+	int32 KGDJLCEGLGJ = 15;
+	uint32 BPPIJIPDBHI = 7;
+}

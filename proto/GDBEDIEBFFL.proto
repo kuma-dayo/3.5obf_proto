@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JPOMNGOBDIO.proto";
+// cmdid = 1666;
+message GDBEDIEBFFL {
+	uint64 DNICFFJOLFM = 5;
+	JPOMNGOBDIO HAEHKKBNDFB = 10;
+}

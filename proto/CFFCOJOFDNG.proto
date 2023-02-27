@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FCJLAGHOIFC.proto";
+// cmdid = 320;
+message CFFCOJOFDNG {
+	repeated uint32 CECKIOPHCAP = 8;
+	repeated FCJLAGHOIFC LABCCIEGNKN = 5;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GNEGOFIJCFA.proto";
+// cmdid = 5643;
+message DKPPBLIHEPO {
+	uint32 NFCACCLGNNG = 7;
+	DKPPBLIHEPO.JEEFBJJIAFM.GNEGOFIJCFA ANNAAMEMEFE = 6;
+}

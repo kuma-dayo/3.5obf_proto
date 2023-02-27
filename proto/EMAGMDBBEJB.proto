@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PENJFODAGGI.proto";
+message EMAGMDBBEJB {
+	repeated PENJFODAGGI CFMKKAGANDG = 1;
+	repeated uint32 GFDDPHKFHKK = 2;
+	uint32 HFLJOCNMJAF = 13;
+}

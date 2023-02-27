@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 3464;
+message DKKFAHNICLE {
+	uint32 IGKOMCADDOO = 14;
+	uint32 ADEPIGNGEGB = 4;
+}

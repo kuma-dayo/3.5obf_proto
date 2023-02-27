@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ALJEMELPDLN.proto";
+message ANJOMJAFKNK {
+	ALJEMELPDLN JIELPDEKFID = 1;
+	uint32 GIHBFMNBKAP = 2;
+	uint32 MLAHDFMHGFB = 3;
+	uint32 GKJGHBKPDCO = 4;
+	float OMPEFPHNHMK = 5;
+}

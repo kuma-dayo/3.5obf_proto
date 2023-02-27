@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NEOMIACADNF.proto";
+message JFMBHEPEIKA {
+	NEOMIACADNF KEKHLLILJCB = 14;
+	int32 KGDJLCEGLGJ = 11;
+}

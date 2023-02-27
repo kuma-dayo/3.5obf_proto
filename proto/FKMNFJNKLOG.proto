@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "OJMJFOELEOF.proto";
+// cmdid = 2375;
+message FKMNFJNKLOG {
+	repeated DALMLFNANKL IDBGBGDAFIL = 2;
+	FKMNFJNKLOG.HFALHFOMALN.OJMJFOELEOF GHPCBNNIMPL = 12;
+	int32 KIEHMJJDHNM = 7;
+	int32 KGDJLCEGLGJ = 5;
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "HAKHNIFICLC.proto";
+message NELPLEPDNED {
+	bool MHJJLGMKJDE = 1;
+	DALMLFNANKL PAIEEOIDGKD = 2;
+	map<uint32, uint32> MMHKLMMBEHA = 3;
+	HAKHNIFICLC GJBGLBCIOHG = 4;
+	map<uint32, uint32> FPNECABEDGJ = 5;
+	map<uint32, uint32> AGLCIPPIOCE = 6;
+	uint32 GFCNFNAAPOK = 7;
+}

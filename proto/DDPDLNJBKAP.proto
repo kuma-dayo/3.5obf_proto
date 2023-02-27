@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HGJKEMEBOKC.proto";
+// cmdid = 1759;
+message DDPDLNJBKAP {
+	HGJKEMEBOKC OAHAOMLIEPE = 3;
+}

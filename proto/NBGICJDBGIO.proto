@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GLEKJEAFNOD.proto";
+message NBGICJDBGIO {
+	repeated GLEKJEAFNOD ALGJAEOGOLC = 4;
+	uint32 OCAHBKIDAKD = 2;
+}

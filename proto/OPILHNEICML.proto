@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ODDOEKJFOII.proto";
+// cmdid = 295;
+message OPILHNEICML {
+	bool DHGHLJEPFKA = 12;
+	uint32 KNOHDBLNJFM = 10;
+	repeated ODDOEKJFOII DBOHCAAINPA = 7;
+}

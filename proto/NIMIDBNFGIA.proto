@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JOPIJIEODIL.proto";
+message NIMIDBNFGIA {
+	uint32 POJPGEIIJHP = 2;
+	uint32 OJGFLECPJEE = 9;
+	uint32 LBDPHFEMEDM = 15;
+	uint32 NPCJFDCFGGH = 6;
+	uint32 DKAINGIEPBF = 13;
+	uint32 AOJBEMOLFJD = 12;
+	repeated JOPIJIEODIL ALIJONFPPFC = 7;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IEGIJKAPDFN.proto";
+message DIGAEAGCDDK {
+	IEGIJKAPDFN JFGFKGNKNOC = 3;
+	repeated uint32 IMGJDLPEPPM = 5;
+}

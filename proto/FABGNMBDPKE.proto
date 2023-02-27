@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IPCIFFJCJLL.proto";
+// cmdid = 5534;
+message FABGNMBDPKE {
+	map<uint32, IPCIFFJCJLL> LGCLKOPJDGJ = 15;
+	uint32 BMBFJLFMJDG = 12;
+}

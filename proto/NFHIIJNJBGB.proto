@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LAMPLBKECOO.proto";
+message NFHIIJNJBGB {
+	uint32 DJGIPGEAPMP = 8;
+	LAMPLBKECOO FFHMDFCGHIF = 11;
+}

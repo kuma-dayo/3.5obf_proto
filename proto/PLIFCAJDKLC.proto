@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENNAKEKMLFM.proto";
+// cmdid = 8641;
+message PLIFCAJDKLC {
+	uint32 GKJEIPHIMLP = 5;
+	uint32 LCMKOPALHOG = 12;
+	repeated uint32 MOPADNKAELD = 13;
+	repeated PLIFCAJDKLC.KJKAMOAGAPI.ENNAKEKMLFM MIPBGGCHMEB = 15;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DKDAOPDHNED.proto";
+import "GKPCNMJKNBG.proto";
+message MBJAKBMCIDD {
+	DKDAOPDHNED JFBHPMGLBPO = 3;
+	GKPCNMJKNBG CDIHOENNKCA = 2;
+}

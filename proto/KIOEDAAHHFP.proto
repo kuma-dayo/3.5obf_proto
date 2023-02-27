@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IKKNLIMAHOL.proto";
+// cmdid = 8374;
+message KIOEDAAHHFP {
+	IKKNLIMAHOL ECPFADMLDMN = 10;
+	int32 KGDJLCEGLGJ = 12;
+}

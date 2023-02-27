@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GBLLGEFNPCP.proto";
+// cmdid = 4267;
+message NFALFEOJHIP {
+	repeated GBLLGEFNPCP ODBFNNONGCE = 15;
+}

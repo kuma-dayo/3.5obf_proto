@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENANJKOACDB.proto";
+message CDPOOGDCAEF {
+	repeated ENANJKOACDB PAAFFDKGHHP = 1;
+	uint32 HLFGALOHJFL = 2;
+	float OBMFFMKOGEP = 3;
+}

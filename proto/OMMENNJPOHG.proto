@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DFNGPIGNBJJ.proto";
+message OMMENNJPOHG {
+	uint32 DBPBPHNGDDC = 1;
+	DFNGPIGNBJJ GOLLOHBAPKK = 10;
+	string HFIFHHGADDH = 11;
+	uint32 ADEPIGNGEGB = 9;
+	uint32 KPBMJOIAGPA = 13;
+	bool AJDICNFFCGM = 14;
+}

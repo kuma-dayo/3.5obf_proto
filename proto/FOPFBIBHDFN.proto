@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CKNMIHFPLAI.proto";
+import "LHHMCBIINHG.proto";
+// cmdid = 3087;
+message FOPFBIBHDFN {
+	CKNMIHFPLAI EKFFKCGJLFB = 9;
+	CKNMIHFPLAI DONIEPIEPLA = 15;
+	FOPFBIBHDFN.MNJEBMCPGEO.LHHMCBIINHG HOBMKDDCCHN = 1;
+}

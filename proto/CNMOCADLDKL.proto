@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message CNMOCADLDKL {
+	uint32 FCOMCIBBNPK = 5;
+	uint32 HJMEPEAEPHN = 11;
+	uint32 COCBLDEIPIJ = 10;
+	repeated uint32 LCCCHELHPCF = 12;
+	repeated uint32 KOMGIPHJNOD = 4;
+}

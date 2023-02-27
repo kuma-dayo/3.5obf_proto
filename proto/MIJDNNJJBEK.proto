@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LPGOCDCNECC.proto";
+message MIJDNNJJBEK {
+	uint32 DBPBPHNGDDC = 1;
+	repeated uint64 DCDKNILFFLC = 2;
+	repeated uint64 IBKJDPIMDBC = 3;
+	repeated LPGOCDCNECC PMNCKLJDDAN = 4;
+}

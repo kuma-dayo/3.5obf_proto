@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NIMPOFILFMP.proto";
+// cmdid = 4522;
+message JKOBCBECAAM {
+	uint32 CMPFHPHPLCN = 7;
+	int32 KGDJLCEGLGJ = 9;
+	NIMPOFILFMP DJAJMJDKHPE = 12;
+}

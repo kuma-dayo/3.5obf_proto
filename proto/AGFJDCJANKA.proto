@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CHEEIFOPCKI.proto";
+message AGFJDCJANKA {
+	repeated CHEEIFOPCKI EPLLNIBLKFI = 15;
+	uint32 PINIGNAMHPD = 8;
+	bool CJCOIIGBCJD = 11;
+}

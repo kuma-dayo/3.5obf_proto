@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "POGIPAEBEHM.proto";
+// cmdid = 5154;
+message LOKEFHDBKHC {
+	repeated POGIPAEBEHM FPIAPFDHGDK = 8;
+}

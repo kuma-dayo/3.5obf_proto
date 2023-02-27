@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EACNABDMBBF.proto";
+import "BBBEJBEBBLD.proto";
+import "CMMDBGIFBAL.proto";
+import "NEFCHPHBGAP.proto";
+message LFKBPFHPKCN {
+	uint32 IFFHHNGDILP = 1;
+	map<uint32, EACNABDMBBF> FILFAEFNIJO = 2;
+	repeated uint32 GKHKKOEPFOE = 3;
+	map<uint32, float> CAINEGMKEOI = 4;
+	uint32 INJEJEDDGOC = 5;
+	uint32 KDMINOJFFJH = 6;
+	repeated uint32 GIIICLLBCJN = 7;
+	map<uint32, uint32> NOLGDOENGON = 8;
+	map<uint32, uint32> CPABGECLEJL = 9;
+	repeated BBBEJBEBBLD IAAGKMNAABE = 10;
+	CMMDBGIFBAL GOHLIDKPNIH = 11;
+	uint32 OMHMJMKLOND = 12;
+	NEFCHPHBGAP NKCCFPLOHMJ = 13;
+}

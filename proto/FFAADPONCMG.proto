@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LCFCMAGCDAJ.proto";
+// cmdid = 4771;
+message FFAADPONCMG {
+	string PDKBLCEJACB = 15;
+	FFAADPONCMG.GPDPJKELDEA.LCFCMAGCDAJ NJJCGHHNKKK = 8;
+}

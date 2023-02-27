@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ILGNCKHBGFO.proto";
+import "ABMCDDFMBOC.proto";
+message EDLDMPIMDAB {
+	string JDGHDGNGKKJ = 9;
+	string PDKBLCEJACB = 5;
+	ILGNCKHBGFO NNPLHBFHBIN = 2;
+	repeated ABMCDDFMBOC NNOHLIPELAF = 10;
+	uint32 DBPBPHNGDDC = 1;
+	int64 ANHMIBEFAFF = 13;
+	uint32 LEHCKDEIOLG = 4;
+	uint32 LDGIDBFOECA = 6;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OPNBGGNPPOE.proto";
+// cmdid = 8594;
+message ENFPDJJKBJK {
+	OPNBGGNPPOE ICIDLINNBHO = 5;
+	uint32 GIKPEIDOKFK = 14;
+	uint32 BMBFJLFMJDG = 12;
+}

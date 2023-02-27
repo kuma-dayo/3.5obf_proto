@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ENOCIMKMJJG.proto";
+message EFLDHGLFIDD {
+	uint32 IECIBBBCCKC = 7;
+	uint32 PDNJLLKHIKJ = 1817;
+	ENOCIMKMJJG OEMNILDNPLM = 8;
+	uint32 JNDOABOIPDC = 12;
+	uint32 INMLPOHLOPA = 14;
+	repeated uint32 FNJOFIDDFMB = 3;
+	uint32 LGAKGINOOMI = 570;
+	uint32 GPEHIGPLNBJ = 4;
+	uint32 MCPFPJMEOHP = 9;
+	uint32 MAKCEFJAEIH = 11;
+	uint32 KOJOOEJKPEA = 505;
+	uint32 NIMFBILPNID = 6;
+	uint32 LBJCHDFPKAK = 5;
+	uint32 AHHAIJNPOLL = 10;
+	repeated ENOCIMKMJJG DKHDLDEDOCJ = 1;
+	uint32 LLFHLDFBBJI = 1467;
+	uint32 OPMJAEBPGFM = 15;
+	uint32 EMNOOEMPOKB = 2;
+	uint32 AKAAJIPHJAN = 1344;
+	uint32 PDOIPBMCMNE = 13;
+}

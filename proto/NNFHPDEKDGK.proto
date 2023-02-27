@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CANJOFHONKD.proto";
+// cmdid = 7332;
+message NNFHPDEKDGK {
+	uint32 AHHAIJNPOLL = 11;
+	repeated CANJOFHONKD BEKPAEOIHKC = 9;
+	bool CKNBBFGPIHP = 13;
+}

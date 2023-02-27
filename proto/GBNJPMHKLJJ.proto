@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GGDCLBEFCNO.proto";
+// cmdid = 294;
+message GBNJPMHKLJJ {
+	uint32 ADEPIGNGEGB = 4;
+	repeated uint32 KGEHAAKKFFP = 14;
+	repeated GGDCLBEFCNO JHJGOOOMMOK = 15;
+	int32 KGDJLCEGLGJ = 6;
+}

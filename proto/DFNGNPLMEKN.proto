@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PDPKPDBANCA.proto";
+// cmdid = 450;
+message DFNGNPLMEKN {
+	bool ECALFJLFBCE = 3;
+	PDPKPDBANCA FNAFNHKMDIB = 1;
+	uint32 PMJJJKDJCCJ = 15;
+	uint32 NEKNJDJAEGK = 7;
+}

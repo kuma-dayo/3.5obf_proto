@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ANJOMJAFKNK.proto";
+// cmdid = 1646;
+message IDDOKPGDFOP {
+	map<uint64, ANJOMJAFKNK> GBMNALJHIIK = 13;
+}

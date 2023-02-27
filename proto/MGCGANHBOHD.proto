@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FBKBALODAED.proto";
+// cmdid = 4379;
+message MGCGANHBOHD {
+	repeated FBKBALODAED BKIPMEIDPNP = 10;
+}

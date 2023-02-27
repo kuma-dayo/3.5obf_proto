@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NDDAOOGOECF.proto";
+import "EIKBIGMCLHB.proto";
+message NIHOOOAICMD {
+	uint32 BBFGDBNOMGC = 10;
+	repeated NDDAOOGOECF NCEJLJHMGGK = 14;
+	uint32 HFLJOCNMJAF = 6;
+	EIKBIGMCLHB LPDDHJEOGKA = 3;
+}

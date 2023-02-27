@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BNOIABMAJCB.proto";
+// cmdid = 4050;
+message LOFIPDAGNJA {
+	BNOIABMAJCB ENPCBACPJNE = 11;
+	int32 KGDJLCEGLGJ = 1;
+}

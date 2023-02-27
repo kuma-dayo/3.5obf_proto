@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IHGNENANDMD.proto";
+import "ABMCDDFMBOC.proto";
+import "AHIMDALMFPK.proto";
+// cmdid = 5393;
+message EKGNCDONNOP {
+	repeated IHGNENANDMD IFHFILKACAE = 6;
+	repeated ABMCDDFMBOC LEMLJHGGKLP = 3;
+	uint32 HPNNJMFOFHO = 5;
+	uint32 HIOBPMIKECE = 12;
+	uint32 AKCBPHBBNFI = 10;
+	EKGNCDONNOP.EJJBBKAJIBA.AHIMDALMFPK NJJCGHHNKKK = 11;
+	repeated uint32 PDHMCNCKJAI = 2;
+	bool FMJJBBELKJF = 7;
+}

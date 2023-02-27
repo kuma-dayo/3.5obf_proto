@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message CLIBPEMAFPA {
+	repeated uint32 DADJPAGGGLA = 4;
+	uint32 MJBNMPHMNBP = 13;
+	uint32 KBCACDELFHH = 5;
+	uint32 OIPDNNIEOCN = 7;
+	repeated uint32 IJABAINOPLB = 9;
+	uint32 CBHICGFAAOM = 2;
+	uint32 NFFODOMAHEA = 3;
+}

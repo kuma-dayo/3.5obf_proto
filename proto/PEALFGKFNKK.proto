@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONHDINIKADE.proto";
+import "LNAAJJBMJEM.proto";
+import "NELPLEPDNED.proto";
+import "DALMLFNANKL.proto";
+import "FEGCMMBGONJ.proto";
+import "MJCEMFIHNCD.proto";
+message PEALFGKFNKK {
+	ONHDINIKADE ELGLNPKINED = 1;
+	LNAAJJBMJEM FFMJIPEDAIG = 2;
+	NELPLEPDNED LEBKNDHHLHK = 3;
+	DALMLFNANKL PAIEEOIDGKD = 4;
+	repeated FEGCMMBGONJ EBKPAPBAPDL = 5;
+	MJCEMFIHNCD LNAINCOIEPM = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MEFIOHIAAJP.proto";
+// cmdid = 7002;
+message OJCCNDLGFNI {
+	OJCCNDLGFNI.FGCHFGGBFJP.MEFIOHIAAJP OLGGNCNMAGG = 7;
+}

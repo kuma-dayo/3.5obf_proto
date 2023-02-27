@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JHJPOIJGPEB.proto";
+import "JOMDPHKGKJO.proto";
+import "PAECICKHAKH.proto";
+import "LMMFGNIDKME.proto";
+message ONHDINIKADE {
+	bool ONOBPHOGFJO = 1;
+	repeated JHJPOIJGPEB DKHNMJBKKGO = 2;
+	repeated JOMDPHKGKJO CAPPKOJDNMH = 3;
+	repeated PAECICKHAKH FGDJDJNAILL = 4;
+	repeated LMMFGNIDKME CALGALIMFJN = 5;
+	repeated JHJPOIJGPEB BPMMOKKHGIG = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MOCICMDGAAH.proto";
+// cmdid = 114;
+message GDMEIEGGFOL {
+	GDMEIEGGFOL.KCEBLBFCIOC.MOCICMDGAAH NJJCGHHNKKK = 4;
+}

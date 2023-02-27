@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CODEKPJKIOA.proto";
+// cmdid = 8630;
+message DFLDHLOHEEI {
+	repeated CODEKPJKIOA LACDGCCMJOB = 5;
+	uint32 GIKPEIDOKFK = 8;
+	repeated uint32 MGIJBBHAPKB = 12;
+	uint32 PINIGNAMHPD = 6;
+	uint32 APCONAGLCBE = 14;
+}

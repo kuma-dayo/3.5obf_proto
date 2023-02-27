@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FEPJMFICDGB.proto";
+// cmdid = 4196;
+message KAONIMBCNLI {
+	FEPJMFICDGB EMLPPGEMHIP = 1;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OLACJIOMDIO.proto";
+message ICLKJAFLECK {
+	uint32 ADEPIGNGEGB = 3;
+	OLACJIOMDIO BACDCJKLPNM = 2;
+}

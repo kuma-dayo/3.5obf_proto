@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BIKFAOPDLDF.proto";
+message OKJFMKLBEHB {
+	map<uint32, uint32> IEMGBCMEBIJ = 2;
+	uint32 IOMNPJCFCAE = 5;
+	map<uint32, uint32> OFIEPOKDLDG = 9;
+	repeated BIKFAOPDLDF OIJLDHOKLNP = 6;
+	uint32 OIBJOIOMEIO = 11;
+	repeated uint32 GMKEEIOKCNE = 8;
+}

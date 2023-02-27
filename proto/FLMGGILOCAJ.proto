@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BNEGCDIFHLA.proto";
+// cmdid = 265;
+message FLMGGILOCAJ {
+	uint32 MOLCEIMAIEN = 8;
+	uint32 BILMPNNKDOK = 4;
+	uint32 BCGPINEJHFJ = 3;
+	BNEGCDIFHLA LNNLJMDJEAD = 13;
+	int32 KGDJLCEGLGJ = 12;
+}

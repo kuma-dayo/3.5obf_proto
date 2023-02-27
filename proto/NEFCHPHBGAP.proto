@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message NEFCHPHBGAP {
+	uint64 OEAMBFPODLA = 1;
+	uint64 IGOFGDDMIEA = 2;
+	uint64 AALOIHOOMDJ = 3;
+	uint64 MFHGLIDPPHI = 4;
+	uint64 ECOBLLGEAKE = 5;
+}

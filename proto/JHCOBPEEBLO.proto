@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KAGPDLCBOHD.proto";
+// cmdid = 5373;
+message JHCOBPEEBLO {
+	uint32 BHMPJOKIPMN = 12;
+	uint32 INMKMHJEDMN = 4;
+	repeated KAGPDLCBOHD KGLOHMHOPMG = 5;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 301;
+message GENANJCFELF {
+	uint32 HGLIBJOCPMD = 6;
+	float BPAAEIMEEAC = 4;
+	uint32 NKLBBGOFNMM = 3;
+	float JDJFGDOCHMA = 7;
+}

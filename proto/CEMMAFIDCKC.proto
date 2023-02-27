@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FGMHOBKFKJK.proto";
+// cmdid = 2200;
+message CEMMAFIDCKC {
+	uint32 EEAHDCAGPFM = 12;
+	map<uint32, FGMHOBKFKJK> AEPHNBNBLDN = 10;
+}

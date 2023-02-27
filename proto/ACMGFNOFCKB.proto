@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "PKGGDPOEDKH.proto";
+import "HEJPIHANNLH.proto";
+import "FFFLJDJCEPL.proto";
+// cmdid = 2367;
+message ACMGFNOFCKB {
+	DALMLFNANKL PCACAAOJAGL = 10;
+	PKGGDPOEDKH IDJMFHKECEK = 3;
+	HEJPIHANNLH EOFDFEPKOMJ = 12;
+	HEJPIHANNLH NGJIGFKHPKA = 6;
+	ACMGFNOFCKB.OOCKLGJCBKD.FFFLJDJCEPL IJIMBAPLHDK = 13;
+	int32 KIEHMJJDHNM = 14;
+	repeated DALMLFNANKL BLCBNMJJBLN = 15;
+	uint32 ADEPIGNGEGB = 11;
+}

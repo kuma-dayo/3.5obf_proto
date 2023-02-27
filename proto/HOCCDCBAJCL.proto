@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OMGFECMPJFA.proto";
+message HOCCDCBAJCL {
+	repeated OMGFECMPJFA LPJEABIMABJ = 6;
+	uint32 GIKPEIDOKFK = 9;
+	OMGFECMPJFA EKKFDCMODDA = 15;
+	uint32 PCAGJPGDLGF = 10;
+	bool CNOAPOKIHPC = 14;
+	bool JLBAIKMDJKC = 13;
+	uint32 IIBDLNBAAPK = 4;
+	uint32 HNFKMJPDIGG = 7;
+	bool HBMMLFIHBLL = 5;
+	uint32 GHHHOHNFGHP = 3;
+	bool BBFFIJALBMG = 2;
+	uint32 KCCHKDBLIKG = 8;
+}

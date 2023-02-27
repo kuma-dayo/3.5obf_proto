@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "NFCMDLFAPCF.proto";
+import "MPJJDJEINNM.proto";
+message CJNEENHAPEE {
+	repeated NFCMDLFAPCF DBEPJDCMOLE = 9;
+	repeated NFCMDLFAPCF ECBPHJANPNO = 1;
+	map<uint32, MPJJDJEINNM> DFAAIOBIGGC = 13;
+}

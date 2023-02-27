@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "const.proto";
+import "ADGGCNMABEF.proto";
+message PGOGBMABKIF {
+	const BMAKOOKMEOJ = 1;
+	string PGANOPBOAAA = 2;
+}

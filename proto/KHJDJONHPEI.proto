@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ILEIPGLHFAP.proto";
+message KHJDJONHPEI {
+	uint32 KFMMPDOELKG = 14;
+	uint64 BKCBAMJFONO = 8;
+	uint32 BDPEIKCDONA = 3;
+	string CMBMGEDAAOB = 7;
+	uint32 IFHMDAHHILD = 2;
+	ILEIPGLHFAP EHIDCIFICHA = 5;
+	uint32 IJHECPJDJEH = 6;
+	bool MKFOMFHNHEG = 9;
+}

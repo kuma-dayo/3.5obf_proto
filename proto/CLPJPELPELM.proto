@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KJGMEKEGPNF.proto";
+import "NFPBPLIEDNC.proto";
+// cmdid = 140;
+message CLPJPELPELM {
+	KJGMEKEGPNF EPFBADHNFME = 14;
+	uint32 IKBNABLPDBL = 1;
+	CLPJPELPELM.ECGBAEOLGPB.NFPBPLIEDNC NDHLCENCNPF = 13;
+	bool KDDFMKDDPCB = 7;
+	string EEOJPFCLGPN = 11;
+	string DBGGNDNLGID = 6;
+	string HIOOEKOBHOG = 9;
+	string AKFNFOGIMLH = 15;
+	uint32 PFOHFGICFMJ = 10;
+}

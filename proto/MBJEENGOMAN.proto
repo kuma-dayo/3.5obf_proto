@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GIMHFKKKBMN.proto";
+// cmdid = 338;
+message MBJEENGOMAN {
+	map<uint32, GIMHFKKKBMN> ALGPDPCCLEF = 9;
+}

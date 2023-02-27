@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message LLDIKKJHCCB {
+	string HFIFHHGADDH = 1;
+	string FNDPNKPLGCF = 2;
+	string JNAGHNPDKDK = 3;
+	string JNJHBMPODGP = 4;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HEJFJALGCON.proto";
+message HDILGEFEHEL {
+	uint32 AKNENDGLAKF = 10;
+	uint32 AMLGPCCDIAL = 15;
+	HEJFJALGCON GCPGKFMLCBN = 5;
+	uint32 MEMHMKEBAAP = 3;
+}

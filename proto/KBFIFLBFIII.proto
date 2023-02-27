@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 626;
+message KBFIFLBFIII {
+	map<uint32, uint64> EHAPINKCFGM = 3;
+}

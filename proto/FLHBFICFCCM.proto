@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BKMJFIBPBOL.proto";
+import "PICNEBDLCOA.proto";
+message FLHBFICFCCM {
+	repeated BKMJFIBPBOL GGNDCMDKGMC = 6;
+	repeated PICNEBDLCOA LACDGCCMJOB = 10;
+}

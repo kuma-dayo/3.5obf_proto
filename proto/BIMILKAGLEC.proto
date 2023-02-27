@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JADEEKLDMOG.proto";
+import "HGJIJCEPLEE.proto";
+import "DALMLFNANKL.proto";
+message BIMILKAGLEC {
+	uint32 HBHPAJFFPIM = 13;
+	bool JPCHKBJFJNO = 14;
+	uint32 BFIFHBNIOIO = 3;
+	bool ILCKFHICNBK = 11;
+	JADEEKLDMOG ENCDJCOPBFI = 9;
+	uint32 AHHAIJNPOLL = 8;
+	uint32 NMGLCJIBNIJ = 1206;
+	uint32 JNCFHOMOELK = 6;
+	uint32 ADEPIGNGEGB = 7;
+	uint32 KFMMPDOELKG = 5;
+	BIMILKAGLEC.MFIDECCHOMF.HGJIJCEPLEE ACHPIAKLNOL = 10;
+	uint32 EHFGHJMLFBJ = 4;
+	uint32 CDPONDLINID = 15;
+	uint32 NOJJILIGGIJ = 308;
+	uint32 JAEANGDBHGA = 1;
+	uint32 DHIKOHLBEHL = 2;
+	DALMLFNANKL FHNLCNBJGGN = 12;
+}

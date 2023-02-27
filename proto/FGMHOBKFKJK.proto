@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "JEPEAALKCBP.proto";
+message FGMHOBKFKJK {
+	JEPEAALKCBP ICIDLINNBHO = 1;
+	bool AKKKFBDHCOE = 12;
+}

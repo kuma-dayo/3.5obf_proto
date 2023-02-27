@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ABMCDDFMBOC.proto";
+import "DFNGPIGNBJJ.proto";
+message FCEIDNPGFGK {
+	repeated ABMCDDFMBOC NNOHLIPELAF = 9;
+	DFNGPIGNBJJ GCPGKFMLCBN = 3;
+}

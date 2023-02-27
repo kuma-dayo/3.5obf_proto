@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+// cmdid = 633;
+message PAKLNEDHMBL {
+	DALMLFNANKL NDINEADFMJC = 14;
+	repeated uint32 FELIAIADPMN = 5;
+}

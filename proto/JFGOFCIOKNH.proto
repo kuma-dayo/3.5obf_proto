@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PAHEIEEOIED.proto";
+message JFGOFCIOKNH {
+	float GICENKCFKCO = 8;
+	map<uint32, uint32> NIDKFFPPGGH = 6;
+	uint32 NCDJBGMGAEL = 1;
+	float GLECPHNEMDM = 2;
+	uint32 PFHBGOJNBIH = 5;
+	uint32 NNBEPOFJBPG = 14;
+	float DOLBHGAFPPA = 13;
+	uint32 BILMPNNKDOK = 15;
+	uint32 BLHENDGJLCE = 3;
+	float HNPLADHNAEC = 10;
+	uint32 OOPPCDPALOH = 7;
+	repeated PAHEIEEOIED BIMDHHOLLFG = 11;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DPIKGFELMFD.proto";
+message MCOPOAMEGCP {
+	repeated uint32 EJBMOFHLINL = 7;
+	uint32 FBLGCOPMKEI = 4;
+	uint32 JFKODGFNHCH = 9;
+	DPIKGFELMFD IFDLFNNLFFM = 13;
+}

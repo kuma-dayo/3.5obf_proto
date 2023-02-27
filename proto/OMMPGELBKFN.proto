@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 966;
+message OMMPGELBKFN {
+	map<uint32, uint32> GIGFCHEDHEP = 6;
+}

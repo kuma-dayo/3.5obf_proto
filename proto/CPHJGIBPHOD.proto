@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+message CPHJGIBPHOD {
+	uint32 BILMPNNKDOK = 7;
+	DALMLFNANKL LGCMGNCHJAD = 10;
+	DALMLFNANKL IIIEKMHKLCD = 6;
+	DALMLFNANKL FHNLCNBJGGN = 4;
+}

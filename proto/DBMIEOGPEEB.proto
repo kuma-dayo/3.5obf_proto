@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ONIKMEGNJAK.proto";
+import "CIDOFFBIFIA.proto";
+import "EJBPKIGPFIG.proto";
+message DBMIEOGPEEB {
+	uint32 ECCLDHMDANJ = 7;
+	repeated ONIKMEGNJAK NIPJIIBNHPG = 14;
+	repeated CIDOFFBIFIA BIHFJJIPEOJ = 15;
+	repeated EJBPKIGPFIG LHKNJGICEAA = 13;
+	uint32 BIBGGEIEJFJ = 3;
+}

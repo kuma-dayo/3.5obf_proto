@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DALMLFNANKL.proto";
+import "IHFHAKKFMHG.proto";
+// cmdid = 394;
+message IHHIMGLPHIK {
+	bool GHNFFPPEHCL = 2;
+	bool CPGNNCCMELF = 3;
+	bool CFEIJNAEHNA = 14;
+	bool LAPKBOLMKFJ = 4;
+	bool NBHGKDBHPGN = 6;
+	uint32 BILMPNNKDOK = 1;
+	DALMLFNANKL NKNKPKPDABG = 9;
+	IHFHAKKFMHG CAMKJLDDMOJ = 8;
+	bool ANFLOPKHIAL = 10;
+	bool DCEGKIPLMPM = 15;
+	bool BNEFEICAAHE = 11;
+	bool HCMMJKINHDO = 5;
+	bool PHAMELHLIBK = 7;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DPLMHBBLJDM.proto";
+import "ENOCIMKMJJG.proto";
+// cmdid = 2924;
+message EFLAKKMMAMA {
+	DPLMHBBLJDM AFOEFGJCMAN = 1;
+	int32 KGDJLCEGLGJ = 5;
+	repeated ENOCIMKMJJG OAIEGGADNBK = 14;
+}

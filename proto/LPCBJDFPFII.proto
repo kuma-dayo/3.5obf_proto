@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LPOPNCBABHN.proto";
+message LPCBJDFPFII {
+	int32 KFMMPDOELKG = 15;
+	repeated LPOPNCBABHN GCDCIFJGKPN = 10;
+}

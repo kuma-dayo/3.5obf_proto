@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+// cmdid = 7373;
+message PGNKKPBLOMO {
+	repeated uint32 LEAGEIDEFOG = 6;
+}

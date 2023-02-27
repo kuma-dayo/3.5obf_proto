@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HDLOGEKNLLN.proto";
+message NKNDOLGOENF {
+	bool JIDKGKGFLMG = 9;
+	uint32 OHMFIABGBGC = 4;
+	bool IKEFLEPMGDF = 15;
+	repeated HDLOGEKNLLN HLHDBKPGGIC = 10;
+}

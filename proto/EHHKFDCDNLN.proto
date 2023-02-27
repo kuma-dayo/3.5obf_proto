@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AJKKNJIKCJA.proto";
+message EHHKFDCDNLN {
+	uint32 HMNDFCBNOLE = 2;
+	uint32 MGHBAFEFDEF = 4;
+	uint32 JNDOABOIPDC = 8;
+	AJKKNJIKCJA AJAEEJFOEDE = 5;
+	repeated uint32 EPHKFDIPIPL = 13;
+}

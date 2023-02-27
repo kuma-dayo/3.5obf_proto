@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "INNAMCEODEG.proto";
+// cmdid = 4816;
+message KOFKAPENCLO {
+	repeated INNAMCEODEG KGFPEHJMKHP = 2;
+}

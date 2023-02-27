@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DOINBFHLBHP.proto";
+message EIDMNOJMFIF {
+	map<uint32, uint32> EFFIJDEOAOG = 10;
+	DOINBFHLBHP OPHFGCMHPBI = 8;
+}

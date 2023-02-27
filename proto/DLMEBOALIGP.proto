@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ADGGCNMABEF.proto";
+message DLMEBOALIGP {
+	uint32 NHLDPAJCPMM = 1;
+	uint32 DPHGCNPPCNE = 2;
+	ADGGCNMABEF JJJKJPBKFDO = 3;
+	bool FBBBKPHDEMB = 4;
+}

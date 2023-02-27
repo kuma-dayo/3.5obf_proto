@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OCCPCJJPICK.proto";
+message DPKDAPMACHJ {
+	repeated OCCPCJJPICK IEACAHAADCN = 4;
+	uint32 MEMHMKEBAAP = 2;
+}

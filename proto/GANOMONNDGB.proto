@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MFAFMALBKAP.proto";
+import "MGMABEOADJL.proto";
+// cmdid = 7188;
+message GANOMONNDGB {
+	repeated uint32 CIOPHJNCBOJ = 1;
+	repeated uint32 HAHKKGFGPCP = 14;
+	repeated MFAFMALBKAP NNOHLIPELAF = 13;
+	repeated uint32 ADPPEEKLJAA = 10;
+	repeated MGMABEOADJL KPIOOGFIJHC = 9;
+	uint32 FDJDJPKILCN = 11;
+}

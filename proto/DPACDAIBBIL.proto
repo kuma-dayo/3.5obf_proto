@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ABMCDDFMBOC.proto";
+import "DFNGPIGNBJJ.proto";
+message DPACDAIBBIL {
+	repeated ABMCDDFMBOC NNOHLIPELAF = 13;
+	DFNGPIGNBJJ GCPGKFMLCBN = 4;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message EJLOAGILHJF {
+	bool PJJHGPDLBGI = 11;
+	map<uint32, uint32> EMJDBBMPOLH = 4;
+	uint32 DBPBPHNGDDC = 14;
+	uint32 MCEOPGPFBID = 3;
+	uint32 GFFJIGKGDII = 15;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OKLGIBNIEKN.proto";
+import "DIABFFLIANK.proto";
+message FOPPEKLEMGE {
+	bool FADEIHLFICK = 5;
+	uint32 NMDBKMGMANL = 15;
+	uint32 NIOOFCICGLH = 1;
+	repeated OKLGIBNIEKN HKOFDCDMLIM = 2;
+	repeated DIABFFLIANK EKDFDJGDNIA = 14;
+}

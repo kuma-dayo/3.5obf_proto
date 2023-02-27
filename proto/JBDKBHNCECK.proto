@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ABABDCODJFC.proto";
+// cmdid = 3284;
+message JBDKBHNCECK {
+	repeated ABABDCODJFC AMFLNDMMCDJ = 5;
+}

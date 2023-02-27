@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KOGHPNIOEKJ.proto";
+// cmdid = 6038;
+message NLCCANLMPOI {
+	uint32 AEPNODPKJGP = 1;
+	repeated KOGHPNIOEKJ HCPEPNGENMN = 10;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FBEKLANBDNA.proto";
+message GONMNBFLCOH {
+	string NOFEGNLKGFJ = 12;
+	uint32 BGDJKDGHLAC = 6;
+	bool LFOOOMNJNHI = 5;
+	repeated FBEKLANBDNA LACDGCCMJOB = 4;
+	uint32 GGKEFINJHNI = 2;
+}

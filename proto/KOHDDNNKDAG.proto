@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+message KOHDDNNKDAG {
+	uint32 FKNKPNNFELO = 13;
+	bool HADODOKJNLK = 5;
+	bool KIOMJOOODFB = 7;
+	uint32 NLGPJCACHLO = 14;
+	map<uint32, uint32> GPKMAHIAHLE = 10;
+	uint32 NMGLCJIBNIJ = 4;
+	uint32 MANLOCPJKED = 9;
+}
